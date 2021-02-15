@@ -13,14 +13,14 @@ const Banner = () => {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img className="imagenBanner" src={imagenBanner} alt="Banner" />
+    <img className="imagenBanner d-block w-100" src={imagenBanner} alt="Banner" />
     </div>
     <div class="carousel-item">
-    <img className="imagenBanner" src={imagenBanner} alt="Banner" />
+    <img className="imagenBanner d-block w-100" src={imagenBanner} alt="Banner" />
       {/* <img src="..." class="d-block w-100" alt="..."> */}
     </div>
     <div class="carousel-item">
-    <img className="imagenBanner" src={imagenBanner} alt="Banner" />
+    <img className="imagenBanner d-block w-100" src={imagenBanner} alt="Banner" />
       {/* <img src="..." class="d-block w-100" alt="..."> */}
     </div>
   </div>

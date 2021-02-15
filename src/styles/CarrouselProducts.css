@@ -1,0 +1,67 @@
+.containerCarousel {
+  width: 75%;
+  margin: 5% auto;
+  position: relative;
+}
+
+.carouselText {
+  color: #000;
+  font-family: "Rubik", sans-serif;
+}
+
+/* esto es para que desaparezcan las otras imagenes y solo se muestren 4  */
+div.slick-slider {
+  width: 100%;
+  overflow: hidden;
+}
+
+button.slick-arrow.slick-prev {
+  position: absolute;
+  left: 4%;
+  top: 45%;
+  background-color: white;
+  border: none;
+}
+
+button.slick-arrow.slick-next {
+  position: absolute;
+  right: 8%;
+  top: 45%;
+  border: none;
+  background-color: white;
+}
+
+div.slick-track {
+  display: flex;
+  width: 100%;
+}
+
+.productsImg {
+  width: 80%;
+  margin: auto;
+}
+
+.productsItem {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #424242;
+}
+
+.caruselPrice {
+  width: 80%;
+  font-family: "Rubik", sans-serif;
+  font-size: 11px;
+  color: #000;
+}
+
+.btnOkBuy {
+  background-color: #000;
+  color: #ffffff;
+  border: solid 1px #000;
+  border-radius: 5px;
+  width: 75%;
+  font-size: 0.6rem;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: center;
+}
