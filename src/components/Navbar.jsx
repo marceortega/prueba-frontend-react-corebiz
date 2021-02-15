@@ -6,29 +6,68 @@ import search from '../statics/search.svg'
 
 const Navbar = () => {
     return (
-        <div className="conatiner">
+<div className="containerNavbar">
+      <div className="row">
+        <div className="col-md-8 offset-md-2">
+        <div className="container">
+
             
-            <div className="row">
-                <div className="col-4">
-                 
-                    <img className="logo" src={logo} alt="logo" />
+            
+<div className="row">
+    <div className="col-4">
+     
+        <img className="logo" src={logo} alt="logo" />
 
-                </div>
-                <div className="col-5">
-                   
-                    <img className="search" src={search} alt="search" />
-                </div>
-                <div className="col-1">
-                
-                  <img className="account" src={account} alt="account" />
-                </div>
-                <div className="col-2">
-                    
-                    <img className="shopping-cart" src={cart} alt="cart" />
-                </div>
+    </div>
+    <div className="col-5">
+       
+        <img className="search" src={search} alt="search" />
+    </div>
+    <div className="col-1">
+    
+      <img className="account" src={account} alt="account" />
+    </div>
+    <div className="col-2">
+        
+        <img className="shopping-cart" src={cart} alt="cart" />
+    </div>
 
-            </div>
+</div>
+</div>
+
+
+</div>
         </div>
+        </div>
+        
+
+
+
+        // <div className="container">
+
+            
+            
+        //     <div className="row">
+        //         <div className="col-4">
+                 
+        //             <img className="logo" src={logo} alt="logo" />
+
+        //         </div>
+        //         <div className="col-5">
+                   
+        //             <img className="search" src={search} alt="search" />
+        //         </div>
+        //         <div className="col-1">
+                
+        //           <img className="account" src={account} alt="account" />
+        //         </div>
+        //         <div className="col-2">
+                    
+        //             <img className="shopping-cart" src={cart} alt="cart" />
+        //         </div>
+
+        //     </div>
+        // </div>
     )
 }
 

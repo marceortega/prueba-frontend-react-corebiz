@@ -1,0 +1,30 @@
+.container-footer{
+    background-color: black;
+}
+.titulo{
+    color:white;
+   
+    font-size: 10px;
+}
+.paragraphFooter{
+   
+    width: 60%;
+}
+/* .btnContact{
+    background-color:white;
+    border-radius: 5px;
+    color: black;
+   
+    
+} */
+
+.colBtn{
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.CreateBy{
+    color: white;
+    margin-top: 10%;
+}
