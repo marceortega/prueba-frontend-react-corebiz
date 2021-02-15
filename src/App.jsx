@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <div className="App">
-     <h1>Hola Mundo React</h1>
+ 
      <Navbar />
      <Banner />
      <CarrouselProducts />
