@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marceortega/prueba-frontend-react-corebiz/static/css/main.f58a95ad.chunk.css",
+    "main.js": "/marceortega/prueba-frontend-react-corebiz/static/js/main.0f3191ce.chunk.js",
+    "main.js.map": "/marceortega/prueba-frontend-react-corebiz/static/js/main.0f3191ce.chunk.js.map",
+    "runtime-main.js": "/marceortega/prueba-frontend-react-corebiz/static/js/runtime-main.90197680.js",
+    "runtime-main.js.map": "/marceortega/prueba-frontend-react-corebiz/static/js/runtime-main.90197680.js.map",
+    "static/js/2.4d745b34.chunk.js": "/marceortega/prueba-frontend-react-corebiz/static/js/2.4d745b34.chunk.js",
+    "static/js/2.4d745b34.chunk.js.map": "/marceortega/prueba-frontend-react-corebiz/static/js/2.4d745b34.chunk.js.map",
+    "index.html": "/marceortega/prueba-frontend-react-corebiz/index.html",
+    "static/css/main.f58a95ad.chunk.css.map": "/marceortega/prueba-frontend-react-corebiz/static/css/main.f58a95ad.chunk.css.map",
+    "static/js/2.4d745b34.chunk.js.LICENSE.txt": "/marceortega/prueba-frontend-react-corebiz/static/js/2.4d745b34.chunk.js.LICENSE.txt",
+    "static/media/Banner.1d20e648.jpg": "/marceortega/prueba-frontend-react-corebiz/static/media/Banner.1d20e648.jpg",
+    "static/media/search.777de400.svg": "/marceortega/prueba-frontend-react-corebiz/static/media/search.777de400.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90197680.js",
+    "static/js/2.4d745b34.chunk.js",
+    "static/css/main.f58a95ad.chunk.css",
+    "static/js/main.0f3191ce.chunk.js"
+  ]
+}
