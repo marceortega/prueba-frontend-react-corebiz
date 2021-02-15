@@ -1,5 +1,14 @@
 # Prueba API React
 [![N|Solid](https://mitocondria.cl/wp-content/uploads/2021/01/logo-corebiz-preto-cinza.png)](https://mitocondria.cl/corebiz-cl/)
+# Como fue el proceso de construcción:
+  -	Lo primero fue revisar el readme entregado, junto con el diseño UX|UI, para poder entender bien el producto, los casos de uso, y poder comenzar a distribuir mi trabajo.
+-	Una vez con esto claro, separe los primeros componentes que conformaran mi proyecto.
+-	Por la rapidez y facilidad instalare Boostrap 4, con solo su CDN para poder utilizar su sistema de columnas y filas.
+-	 Para comenzar a diseñar, como no tenía más que la imagen de lo que querían los diseñadores, pegue en FIGMA la imagen de la pantalla a crear, y de esta manera pude ver bien las proporciones de las filas y las columnas para poder realizar un proyecto más cercano a la realizada con el  frameworks  BOOTSTRAP. Utilice el frame Desktop width: 1440px;height: 1024px.
+-	Carrusel de productos :
+-	Instalo  react-slick ( https://www.npmjs.com/package/react-slick) para conseguir un slider para poner la data
+
+
 
 Prueba Frontend con API Rest Corebiz Chile.
 
